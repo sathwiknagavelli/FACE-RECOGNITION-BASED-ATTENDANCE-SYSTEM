@@ -1,0 +1,9 @@
+flask
+opencv-python
+deepface
+scikit-learn
+numpy
+mysql-connector-python
+tensorflow
+keras
+pandas
